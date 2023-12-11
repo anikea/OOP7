@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Develop\Repositories\OOP7\OOP7\class_ini.h(119,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OOP7.vcxproj -> D:\Develop\Repositories\OOP7\x64\Debug\OOP7.exe
